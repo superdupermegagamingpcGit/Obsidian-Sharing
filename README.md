@@ -15,4 +15,4 @@ Now, this should be fairly easy to figure out. Here are the preliminary steps:
 
 The appeal is, if you cock up, you can go back to old **commits**(this is what putting something ONTO GitHub is called). The action of uploading and downloading on GitHub is reffered to as **pushing** and **pulling**.
 
-Happy note-taking!
+Happy note-taking! P.S. this first Obsidian file has been downloaded on your Laptop already.
